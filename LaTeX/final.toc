@@ -1,0 +1,20 @@
+\contentsline {chapter}{Introduction}{5}{}%
+\contentsline {section}{\numberline {0.1}Problem Statement}{5}{}%
+\contentsline {section}{\numberline {0.2}Significance}{6}{}%
+\contentsline {chapter}{\numberline {1}Methodology}{7}{}%
+\contentsline {section}{\numberline {1.1}Caustics and Orthotomics}{7}{}%
+\contentsline {section}{\numberline {1.2}Combinatorial Elimination}{9}{}%
+\contentsline {subsection}{\numberline {1.2.1}Theory}{9}{}%
+\contentsline {subsection}{\numberline {1.2.2}Algorithm}{10}{}%
+\contentsline {subsection}{\numberline {1.2.3}Path Plots}{12}{}%
+\contentsline {subsection}{\numberline {1.2.4}Limitations}{13}{}%
+\contentsline {subsection}{\numberline {1.2.5}Scope For Improvement}{13}{}%
+\contentsline {section}{\numberline {1.3}Reinforcement Learning For Optimal Path}{14}{}%
+\contentsline {subsection}{\numberline {1.3.1}Theory}{14}{}%
+\contentsline {subsection}{\numberline {1.3.2}Algorithm}{15}{}%
+\contentsline {subsubsection}{Simulation of Environment}{15}{}%
+\contentsline {subsubsection}{Reinforcement Learning}{18}{}%
+\contentsline {subsection}{\numberline {1.3.3}Results}{27}{}%
+\contentsline {subsubsection}{8 Point Incident Configuration}{27}{}%
+\contentsline {subsection}{\numberline {1.3.4}Limitations}{29}{}%
+\contentsline {section}{\numberline {1.4}Conclusion}{30}{}%
